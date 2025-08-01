@@ -298,7 +298,7 @@ public class MultiplayerPokeDuelJFrame extends javax.swing.JFrame {
         List<Pokemon> team = new ArrayList<>();
         
         for (String pokemonName : teamNames) {
-            if (pokemonName == null) continue;
+            if (pokemonName == null || pokemonName.trim().isEmpty()) continue;
             
             String fileName = findPokemonFileName(pokemonName);
             if (fileName != null) {
@@ -310,6 +310,7 @@ public class MultiplayerPokeDuelJFrame extends javax.swing.JFrame {
             }
         }
         
+        System.out.println("DEBUG: Loaded team with " + team.size() + " Pokemon");
         return team;
     }
     
@@ -985,23 +986,28 @@ public class MultiplayerPokeDuelJFrame extends javax.swing.JFrame {
         
         javax.swing.Timer timer = new javax.swing.Timer(2000, e -> {
             if (isMyPokemon) {
-                myCurrentPokemonIndex++;
-                if (myCurrentPokemonIndex < myTeam.size()) {
-                    myCurrentPokemon = myTeam.get(myCurrentPokemonIndex);
+                // Find next available Pokemon for player
+                int nextAvailable = findNextAvailablePokemon(myTeam, -1);
+                
+                if (nextAvailable != -1) {
+                    myCurrentPokemon = myTeam.get(nextAvailable);
+                    myCurrentPokemonIndex = nextAvailable;
                     showBattleMessage("Go! " + myCurrentPokemon.getName() + "!", "");
                     updateBattleUI();
                     // Keep current turn state
                 } else {
-                    // I lost
+                    // No more Pokemon available - I lost
                     battleEnded = true;
                     showBattleMessage("You lost the battle!", "");
                     disableAllButtons();
                 }
             } else {
-                // Opponent Pokemon fainted
-                opponentCurrentPokemonIndex++;
-                if (opponentCurrentPokemonIndex < opponentTeam.size()) {
-                    opponentCurrentPokemon = opponentTeam.get(opponentCurrentPokemonIndex);
+                // Find next available Pokemon for opponent
+                int nextAvailable = findNextAvailablePokemon(opponentTeam, -1);
+                
+                if (nextAvailable != -1) {
+                    opponentCurrentPokemon = opponentTeam.get(nextAvailable);
+                    opponentCurrentPokemonIndex = nextAvailable;
                     showBattleMessage("Foe sent out " + opponentCurrentPokemon.getName() + "!", "");
                     updateBattleUI();
                     
@@ -1010,7 +1016,7 @@ public class MultiplayerPokeDuelJFrame extends javax.swing.JFrame {
                     waitingForAction = true;
                     enableAllButtons();
                 } else {
-                    // I won
+                    // No more Pokemon available - I won
                     battleEnded = true;
                     showBattleMessage("You defeated your opponent!", "You win!");
                     disableAllButtons();
@@ -1021,7 +1027,42 @@ public class MultiplayerPokeDuelJFrame extends javax.swing.JFrame {
         timer.start();
     }
     
+    /**
+     * Find the next available Pokemon with HP > 0
+     * @param team The team to search
+     * @param excludeIndex Index to exclude (typically the current Pokemon)
+     * @return Index of next available Pokemon, or -1 if none found
+     */
+    private int findNextAvailablePokemon(List<Pokemon> team, int excludeIndex) {
+        for (int i = 0; i < team.size(); i++) {
+            if (i != excludeIndex && team.get(i) != null) {
+                Integer hp = currentHP.get(team.get(i));
+                if (hp != null && hp > 0) {
+                    return i;
+                }
+            }
+        }
+        return -1;
+    }
+    
     private void showPokemonSelection() {
+        // Check if there are any other Pokemon available
+        int availableCount = 0;
+        for (int i = 0; i < myTeam.size(); i++) {
+            if (i != myCurrentPokemonIndex && myTeam.get(i) != null) {
+                Integer hp = currentHP.get(myTeam.get(i));
+                if (hp != null && hp > 0) {
+                    availableCount++;
+                }
+            }
+        }
+        
+        if (availableCount == 0) {
+            showBattleMessage("No other Pokemon available!", "Choose another action.");
+            resetButtons();
+            return;
+        }
+        
         // Create and show Pokemon selection dialog
         ChoosingPokemonInBattleJDialog dialog = new ChoosingPokemonInBattleJDialog(
             this,

@@ -1209,28 +1209,32 @@ public class PokeDuelJFrame extends javax.swing.JFrame {
 
         javax.swing.Timer timer = new javax.swing.Timer(2000, e -> {
             if (isPlayer) {
-                // Check for next Pokemon
-                currentPlayerPokemonIndex++;
-                if (currentPlayerPokemonIndex < playerTeam.size()) {
-                    currentPlayerPokemon = playerTeam.get(currentPlayerPokemonIndex);
+                // Find next available Pokemon for player
+                int nextAvailable = findNextAvailablePokemon(playerTeam, -1);
+
+                if (nextAvailable != -1) {
+                    currentPlayerPokemon = playerTeam.get(nextAvailable);
+                    currentPlayerPokemonIndex = nextAvailable;
                     showBattleMessage("Go! " + currentPlayerPokemon.getName() + "!", "");
                     updateBattleUI();
                     waitingForAction = true;
                 } else {
-                    // Player lost
+                    // No more Pokemon available - player lost
                     showBattleMessage("You lost the battle!", "Blue wins!");
                     disableAllButtons();
                 }
             } else {
-                // Opponent Pokemon fainted
-                currentOpponentPokemonIndex++;
-                if (currentOpponentPokemonIndex < opponentTeam.size()) {
-                    currentOpponentPokemon = opponentTeam.get(currentOpponentPokemonIndex);
+                // Find next available Pokemon for opponent
+                int nextAvailable = findNextAvailablePokemon(opponentTeam, -1);
+
+                if (nextAvailable != -1) {
+                    currentOpponentPokemon = opponentTeam.get(nextAvailable);
+                    currentOpponentPokemonIndex = nextAvailable;
                     showBattleMessage("Blue sent out " + currentOpponentPokemon.getName() + "!", "");
                     updateBattleUI();
                     waitingForAction = true;
                 } else {
-                    // Player won
+                    // No more Pokemon available - player won
                     showBattleMessage("You defeated Blue!",
                             "You won $" + opponentMoney + "!");
                     disableAllButtons();
@@ -1239,6 +1243,25 @@ public class PokeDuelJFrame extends javax.swing.JFrame {
         });
         timer.setRepeats(false);
         timer.start();
+    }
+
+    /**
+     * Find the next available Pokemon with HP > 0
+     *
+     * @param team The team to search
+     * @param excludeIndex Index to exclude (typically the current Pokemon)
+     * @return Index of next available Pokemon, or -1 if none found
+     */
+    private int findNextAvailablePokemon(List<Pokemon> team, int excludeIndex) {
+        for (int i = 0; i < team.size(); i++) {
+            if (i != excludeIndex && team.get(i) != null) {
+                Integer hp = currentHP.get(team.get(i));
+                if (hp != null && hp > 0) {
+                    return i;
+                }
+            }
+        }
+        return -1;
     }
 
     private void disableAllButtons() {
