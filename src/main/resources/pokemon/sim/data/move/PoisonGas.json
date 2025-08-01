@@ -1,0 +1,9 @@
+{
+  "name": "Poison Gas",
+  "type": "Poison",
+  "category": "Status",
+  "power": "—",
+  "accuracy": 90,
+  "pp": 40,
+  "effect": "Poisons opponent."
+}

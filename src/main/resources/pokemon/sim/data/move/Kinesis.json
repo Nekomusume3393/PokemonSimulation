@@ -1,0 +1,9 @@
+{
+  "name": "Kinesis",
+  "type": "Psychic",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 80,
+  "pp": 15,
+  "effect": "Lowers opponent's Accuracy."
+}

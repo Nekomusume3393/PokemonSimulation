@@ -1,0 +1,19 @@
+{
+    "name": "Seadra",
+    "national_number": "0117",
+    "image": ["Seadra-front.png", "Seadra-back.png"],
+    "type": ["Water"],
+    "species": "Dragon Pokémon",
+    "height": 1.2,
+    "weight": 25,
+    "stats": [
+        {
+            "hp": 55,
+            "atk": 65,
+            "def": 95,
+            "sp-atk": 95,
+            "sp-def": 45,
+            "speed": 85
+        }
+    ]
+}

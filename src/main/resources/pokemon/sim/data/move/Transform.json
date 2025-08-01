@@ -1,0 +1,9 @@
+{
+  "name": "Transform",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 10,
+  "effect": "User takes on the form and attacks of the opponent."
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Dragonair",
+    "national_number": "0148",
+    "image": ["Dragonair-front.png", "Dragonair-back.png"],
+    "type": ["Dragon"],
+    "species": "Dragon Pokémon",
+    "height": 4,
+    "weight": 16.5,
+    "stats": [
+        {
+            "hp": 61,
+            "atk": 84,
+            "def": 65,
+            "sp-atk": 70,
+            "sp-def": 70,
+            "speed": 70
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Weedle",
+    "national_number": "0013",
+    "image": ["Weedle-front.png", "Weedle-back.png"],
+    "type": ["Bug", "Poison"],
+    "species": "Hairy Bug Pokémon",
+    "height": 0.3,
+    "weight": 3.2,
+    "stats": [{
+        "hp": 40, "atk": 35, "def": 30,
+        "sp-atk": 20, "sp-def": 20, "speed": 50
+    }]
+}

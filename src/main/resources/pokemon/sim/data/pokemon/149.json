@@ -1,0 +1,19 @@
+{
+    "name": "Dragonite",
+    "national_number": "0149",
+    "image": ["Dragonite-front.png", "Dragonite-back.png"],
+    "type": ["Dragon", "Flying"],
+    "species": "Dragon Pokémon",
+    "height": 2.2,
+    "weight": 210,
+    "stats": [
+        {
+            "hp": 91,
+            "atk": 134,
+            "def": 95,
+            "sp-atk": 100,
+            "sp-def": 100,
+            "speed": 80
+        }
+    ]
+}

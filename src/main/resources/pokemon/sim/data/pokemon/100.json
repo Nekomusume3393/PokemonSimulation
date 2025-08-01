@@ -1,0 +1,19 @@
+{
+    "name": "Voltorb",
+    "national_number": "0100",
+    "image": ["Voltorb-front.png", "Voltorb-back.png"],
+    "type": "Electric",
+    "species": "Ball Pokémon",
+    "height": 0.5,
+    "weight": 10.4,
+    "stats": [
+        {
+            "hp": 40,
+            "atk": 30,
+            "def": 50,
+            "sp-atk": 55,
+            "sp-def": 55,
+            "speed": 100
+        }
+    ]
+}

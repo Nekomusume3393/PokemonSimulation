@@ -1,0 +1,9 @@
+{
+  "name": "Withdraw",
+  "type": "Water",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 40,
+  "effect": "Raises user's Defense."
+}

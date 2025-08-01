@@ -1,0 +1,19 @@
+{
+    "name": "Rapidash",
+    "national_number": "0078",
+    "image": ["Rapidash-front.png", "Rapidash-back.png"],
+    "type": "Fire",
+    "species": "Fire Horse Pokémon",
+    "height": 1.7,
+    "weight": 95,
+    "stats": [
+        {
+            "hp": 65,
+            "atk": 100,
+            "def": 70,
+            "sp-atk": 80,
+            "sp-def": 80,
+            "speed": 105
+        }
+    ]
+}

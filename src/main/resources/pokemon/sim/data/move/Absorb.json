@@ -1,0 +1,9 @@
+{
+    "name": "Absorb",
+    "type": "Grass",
+    "category": "special",
+    "power": 20,
+    "accuracy": 100,
+    "pp": 25,
+    "effect": "User recovers half the HP inflicted on opponent."
+}

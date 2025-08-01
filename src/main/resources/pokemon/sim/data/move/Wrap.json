@@ -1,0 +1,9 @@
+{
+  "name": "Wrap",
+  "type": "Normal",
+  "category": "Physical",
+  "power": 15,
+  "accuracy": 90,
+  "pp": 20,
+  "effect": "Traps opponent, damaging them for 4-5 turns."
+}

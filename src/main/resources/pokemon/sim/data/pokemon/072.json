@@ -1,0 +1,19 @@
+{
+    "name": "Tentacool",
+    "national_number": "0072",
+    "image": ["Tentacool-front.png", "Tentacool-back.png"],
+    "type": ["Water", "Poison"],
+    "species": "Jellyfish Pokémon",
+    "height": 0.9,
+    "weight": 45.5,
+    "stats": [
+        {
+            "hp": 40,
+            "atk": 40,
+            "def": 35,
+            "sp-atk": 50,
+            "sp-def": 100,
+            "speed": 70
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Double-Edge",
+  "type": "Normal",
+  "category": "Physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "User receives recoil damage."
+}

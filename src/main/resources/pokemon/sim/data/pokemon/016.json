@@ -1,0 +1,13 @@
+{
+    "name": "Pidgey",
+    "national_number": "0016",
+    "image": ["Pidgey-front.png", "Pidgey-back.png"],
+    "type": ["Normal", "Flying"],
+    "species": "Tiny Bird Pokémon",
+    "height": 0.3,
+    "weight": 1.8,
+    "stats": [{
+        "hp": 40, "atk": 45, "def": 40,
+        "sp-atk": 35, "sp-def": 35, "speed": 56
+    }]
+}

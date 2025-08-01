@@ -1,0 +1,19 @@
+{
+    "name": "Scyther",
+    "national_number": "0123",
+    "image": ["Scyther-front.png", "Scyther-back.png"],
+    "type": ["Bug", "Flying"],
+    "species": "Mantis Pokémon",
+    "height": 1.5,
+    "weight": 56,
+    "stats": [
+        {
+            "hp": 70,
+            "atk": 110,
+            "def": 80,
+            "sp-atk": 55,
+            "sp-def": 80,
+            "speed": 105
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Poison Sting",
+  "type": "Poison",
+  "category": "Physical",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": "May poison the opponent."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Double Kick",
+  "type": "Fighting",
+  "category": "Physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Hits twice in one turn."
+}

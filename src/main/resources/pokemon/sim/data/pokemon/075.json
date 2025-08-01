@@ -1,0 +1,19 @@
+{
+    "name": "Graveler",
+    "national_number": "0075",
+    "image": ["Graveler-front.png", "Graveler-back.png"],
+    "type": ["Rock", "Ground"],
+    "species": "Rock Pokémon",
+    "height": 1,
+    "weight": 105,
+    "stats": [
+        {
+            "hp": 55,
+            "atk": 95,
+            "def": 115,
+            "sp-atk": 45,
+            "sp-def": 45,
+            "speed": 35
+        }
+    ]
+}

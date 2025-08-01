@@ -1,0 +1,9 @@
+{
+  "name": "Tail Whip",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "Lowers opponent's Defense."
+}

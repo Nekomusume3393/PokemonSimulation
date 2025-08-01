@@ -1,0 +1,9 @@
+{
+  "name": "Metronome",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 10,
+  "effect": "User performs almost any move in the game at random."
+}

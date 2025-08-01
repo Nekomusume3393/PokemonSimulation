@@ -1,0 +1,9 @@
+{
+  "name": "String Shot",
+  "type": "Bug",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 95,
+  "pp": 40,
+  "effect": "Sharply lowers opponent's Speed."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Peck",
+  "type": "Flying",
+  "category": "Physical",
+  "power": 35,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": ""
+}

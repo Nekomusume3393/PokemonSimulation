@@ -1,0 +1,20 @@
+{
+    "name": "Poliwag",
+    "national_number": "0060",
+    "image": ["Poliwag-front.png", "Poliwag-back.png"],
+    "type": "Water",
+    "species": "Tadpole Pokémon",
+    "height": 0.6,
+    "weight": 12.4,
+    "stats": [
+        {
+            "hp": 40,
+            "atk": 50,
+            "def": 40,
+            "sp-atk": 40,
+            "sp-def": 40,
+            "speed": 90
+        }
+    ]
+}
+

@@ -1,0 +1,20 @@
+{
+    "name": "Abra",
+    "national_number": "0063",
+    "image": ["Abra-front.png", "Abra-back.png"],
+    "type": "Psychic",
+    "species": "Psi Pokémon",
+    "height": 0.9,
+    "weight": 19.5,
+    "stats": [
+        {
+            "hp": 25,
+            "atk": 20,
+            "def": 15,
+            "sp-atk": 105,
+            "sp-def": 55,
+            "speed": 90
+        }
+    ]
+}
+

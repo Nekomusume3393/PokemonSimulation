@@ -1,0 +1,19 @@
+{
+    "name": "Articuno",
+    "national_number": "0144",
+    "image": ["Articuno-front.png", "Articuno-back.png"],
+    "type": ["Ice", "Flying"],
+    "species": "Freeze Pokémon",
+    "height": 1.7,
+    "weight": 55.4,
+    "stats": [
+        {
+            "hp": 90,
+            "atk": 85,
+            "def": 100,
+            "sp-atk": 95,
+            "sp-def": 125,
+            "speed": 85
+        }
+    ]
+}

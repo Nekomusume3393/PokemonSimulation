@@ -1,0 +1,9 @@
+{
+  "name": "Roar",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 20,
+  "effect": "In battles, the opponent switches. In the wild, the Pokémon runs."
+}

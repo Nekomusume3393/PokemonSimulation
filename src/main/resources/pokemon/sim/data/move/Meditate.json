@@ -1,0 +1,9 @@
+{
+  "name": "Meditate",
+  "type": "Psychic",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 40,
+  "effect": "Raises user's Attack."
+}

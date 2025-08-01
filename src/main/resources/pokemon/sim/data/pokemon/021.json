@@ -1,0 +1,13 @@
+{
+    "name": "Spearow",
+    "national_number": "0021",
+    "image": ["Spearow-front.png", "Spearow-back.png"],
+    "type": ["Normal", "Flying"],
+    "species": "Tiny Bird Pokémon",
+    "height": 0.3,
+    "weight": 2.0,
+    "stats": [{
+        "hp": 40, "atk": 60, "def": 30,
+        "sp-atk": 31, "sp-def": 31, "speed": 70
+    }]
+}

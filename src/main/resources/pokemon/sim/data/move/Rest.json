@@ -1,0 +1,9 @@
+{
+  "name": "Rest",
+  "type": "Psychic",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 5,
+  "effect": "User sleeps for 2 turns, but user is fully healed."
+}

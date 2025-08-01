@@ -1,0 +1,9 @@
+{
+  "name": "Counter",
+  "type": "Fighting",
+  "category": "Physical",
+  "power": "--",
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "When hit by a Physical Attack, user strikes back with 2x power."
+}

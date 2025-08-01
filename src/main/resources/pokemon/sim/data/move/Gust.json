@@ -1,0 +1,9 @@
+{
+  "name": "Gust",
+  "type": "Flying",
+  "category": "Special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "effect": "Hits Pokémon using Fly/Bounce/Sky Drop with double power."
+}

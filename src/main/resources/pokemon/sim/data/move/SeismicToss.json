@@ -1,0 +1,9 @@
+{
+  "name": "Seismic Toss",
+  "type": "Fighting",
+  "category": "Physical",
+  "power": "--",
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Inflicts damage equal to user's level."
+}

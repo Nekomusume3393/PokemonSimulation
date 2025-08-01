@@ -1,0 +1,19 @@
+{
+    "name": "Dewgong",
+    "national_number": "0087",
+    "image": ["Dewgong-front.png", "Dewgong-back.png"],
+    "type": ["Water", "Ice"],
+    "species": "Sea Lion Pokémon",
+    "height": 1.7,
+    "weight": 120,
+    "stats": [
+        {
+            "hp": 90,
+            "atk": 70,
+            "def": 80,
+            "sp-atk": 70,
+            "sp-def": 95,
+            "speed": 70
+        }
+    ]
+}

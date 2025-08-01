@@ -1,0 +1,9 @@
+{
+  "name": "Swift",
+  "type": "Normal",
+  "category": "Special",
+  "power": 60,
+  "accuracy": "--",
+  "pp": 20,
+  "effect": "Ignores Accuracy and Evasiveness."
+}

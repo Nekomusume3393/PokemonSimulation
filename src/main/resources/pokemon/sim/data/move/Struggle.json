@@ -1,0 +1,9 @@
+{
+  "name": "Struggle",
+  "type": "Normal",
+  "category": "Physical",
+  "power": 50,
+  "accuracy": "--",
+  "pp": "--",
+  "effect": "Only usable when all PP are gone. Hurts the user."
+}

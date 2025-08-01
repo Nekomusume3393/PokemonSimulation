@@ -1,0 +1,13 @@
+{
+    "name": "Charmeleon",
+    "national_number": "0005",
+    "image": ["Charmeleon-front.png", "Charmeleon-back.png"],
+    "type": ["Fire"],
+    "species": "Flame Pokémon",
+    "height": 1.1,
+    "weight": 19.0,
+    "stats": [{
+        "hp": 58, "atk": 64, "def": 58,
+        "sp-atk": 80, "sp-def": 65, "speed": 80
+    }]
+}

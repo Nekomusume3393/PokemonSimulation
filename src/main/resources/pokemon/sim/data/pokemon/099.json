@@ -1,0 +1,19 @@
+{
+    "name": "Kingler",
+    "national_number": "0099",
+    "image": ["Kingler-front.png", "Kingler-back.png"],
+    "type": "Water",
+    "species": "Pincer Pokémon",
+    "height": 1.3,
+    "weight": 60,
+    "stats": [
+        {
+            "hp": 55,
+            "atk": 130,
+            "def": 115,
+            "sp-atk": 50,
+            "sp-def": 50,
+            "speed": 75
+        }
+    ]
+}

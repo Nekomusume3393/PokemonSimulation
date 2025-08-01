@@ -1,0 +1,19 @@
+{
+    "name": "Drowzee",
+    "national_number": "0096",
+    "image": ["Drowzee-front.png", "Drowzee-back.png"],
+    "type": "Psychic",
+    "species": "Hypnosis Pokémon",
+    "height": 1,
+    "weight": 32.4,
+    "stats": [
+        {
+            "hp": 60,
+            "atk": 48,
+            "def": 45,
+            "sp-atk": 43,
+            "sp-def": 90,
+            "speed": 42
+        }
+    ]
+}

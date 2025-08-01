@@ -1,0 +1,13 @@
+{
+    "name": "Ekans",
+    "national_number": "0023",
+    "image": ["Ekans-front.png", "Ekans-back.png"],
+    "type": ["Poison"],
+    "species": "Snake Pokémon",
+    "height": 2.0,
+    "weight": 6.9,
+    "stats": [{
+        "hp": 35, "atk": 60, "def": 44,
+        "sp-atk": 40, "sp-def": 54, "speed": 55
+    }]
+}

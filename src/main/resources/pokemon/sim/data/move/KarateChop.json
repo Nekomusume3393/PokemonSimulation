@@ -1,0 +1,9 @@
+{
+  "name": "Karate Chop",
+  "type": "Fighting",
+  "category": "Physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": "High critical hit ratio."
+}

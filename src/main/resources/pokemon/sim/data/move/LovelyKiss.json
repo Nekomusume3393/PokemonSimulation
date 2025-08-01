@@ -1,0 +1,9 @@
+{
+  "name": "Lovely Kiss",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 75,
+  "pp": 10,
+  "effect": "Puts opponent to sleep."
+}

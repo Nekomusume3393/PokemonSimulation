@@ -1,0 +1,19 @@
+{
+    "name": "Omanyte",
+    "national_number": "0138",
+    "image": ["Omanyte-front.png", "Omanyte-back.png"],
+    "type": ["Rock", "Water"],
+    "species": "Spiral Pokémon",
+    "height": 0.4,
+    "weight": 7.5,
+    "stats": [
+        {
+            "hp": 35,
+            "atk": 40,
+            "def": 100,
+            "sp-atk": 90,
+            "sp-def": 55,
+            "speed": 35
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Oddish",
+    "national_number": "0043",
+    "image": ["Oddish-front.png", "Oddish-back.png"],
+    "type": ["Grass", "Poison"],
+    "species": "Weed Pokémon",
+    "height": 0.5,
+    "weight": 5.4,
+    "stats": [{
+        "hp": 45, "atk": 50, "def": 55,
+        "sp-atk": 75, "sp-def": 65, "speed": 30
+    }]
+}

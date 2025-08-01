@@ -1,0 +1,13 @@
+{
+    "name": "Jigglypuff",
+    "national_number": "0039",
+    "image": ["Jigglypuff-front.png", "Jigglypuff-back.png"],
+    "type": ["Normal", "Fairy"],
+    "species": "Balloon Pokémon",
+    "height": 0.5,
+    "weight": 5.5,
+    "stats": [{
+        "hp": 115, "atk": 45, "def": 20,
+        "sp-atk": 45, "sp-def": 25, "speed": 20
+    }]
+}

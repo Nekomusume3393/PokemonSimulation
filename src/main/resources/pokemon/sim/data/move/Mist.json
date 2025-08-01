@@ -1,0 +1,9 @@
+{
+  "name": "Mist",
+  "type": "Ice",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 30,
+  "effect": "User's stats cannot be changed for a period of time."
+}

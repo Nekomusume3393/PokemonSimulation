@@ -1,0 +1,9 @@
+{
+  "name": "Mega Drain",
+  "type": "Grass",
+  "category": "Special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "User recovers half the HP inflicted on opponent."
+}

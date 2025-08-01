@@ -1,0 +1,19 @@
+{
+    "name": "Machamp",
+    "national_number": "0068",
+    "image": ["Machamp-front.png", "Machamp-back.png"],
+    "type": "Fighting",
+    "species": "Superpower Pokémon",
+    "height": 1.6,
+    "weight": 130,
+    "stats": [
+        {
+            "hp": 90,
+            "atk": 130,
+            "def": 80,
+            "sp-atk": 65,
+            "sp-def": 85,
+            "speed": 55
+        }
+    ]
+}

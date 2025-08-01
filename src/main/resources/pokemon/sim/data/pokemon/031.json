@@ -1,0 +1,13 @@
+{
+    "name": "Nidoqueen",
+    "national_number": "0031",
+    "image": ["Nidoqueen-front.png", "Nidoqueen-back.png"],
+    "type": ["Poison", "Ground"],
+    "species": "Drill Pokémon",
+    "height": 1.3,
+    "weight": 60.0,
+    "stats": [{
+        "hp": 90, "atk": 92, "def": 87,
+        "sp-atk": 75, "sp-def": 85, "speed": 76
+    }]
+}

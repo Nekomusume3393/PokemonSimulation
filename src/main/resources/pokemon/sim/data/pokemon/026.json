@@ -1,0 +1,13 @@
+{
+    "name": "Raichu",
+    "national_number": "0026",
+    "image": ["Raichu-front.png", "Raichu-back.png"],
+    "type": ["Electric"],
+    "species": "Mouse Pokémon",
+    "height": 0.8,
+    "weight": 30.0,
+    "stats": [{
+        "hp": 60, "atk": 90, "def": 55,
+        "sp-atk": 90, "sp-def": 80, "speed": 110
+    }]
+}

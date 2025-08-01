@@ -1,0 +1,13 @@
+{
+    "name": "Nidorino",
+    "national_number": "0033",
+    "image": ["Nidorino-front.png", "Nidorino-back.png"],
+    "type": ["Poison"],
+    "species": "Poison Pin Pokémon",
+    "height": 0.9,
+    "weight": 19.5,
+    "stats": [{
+        "hp": 61, "atk": 72, "def": 57,
+        "sp-atk": 55, "sp-def": 55, "speed": 65
+    }]
+}

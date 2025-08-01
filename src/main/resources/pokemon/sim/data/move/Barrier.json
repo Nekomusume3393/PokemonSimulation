@@ -1,0 +1,9 @@
+{
+  "name": "Barrier",
+  "type": "Psychic",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 20,
+  "effect": "Sharply raises user's Defense."
+}

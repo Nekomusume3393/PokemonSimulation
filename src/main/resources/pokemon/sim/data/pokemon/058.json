@@ -1,0 +1,19 @@
+{
+    "name": "Growlithe",
+    "national_number": "0058",
+    "image": ["Growlithe-front.png", "Growlithe-back.png"],
+    "type": "Fire",
+    "species": "Puppy Pokémon",
+    "height": 0.7,
+    "weight": 19,
+    "stats": [
+        {
+            "hp": 55,
+            "atk": 70,
+            "def": 45,
+            "sp-atk": 70,
+            "sp-def": 50,
+            "speed": 60
+        }
+    ]
+}

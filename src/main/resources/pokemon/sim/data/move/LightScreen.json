@@ -1,0 +1,9 @@
+{
+  "name": "Light Screen",
+  "type": "Psychic",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 30,
+  "effect": "Halves damage from Special attacks for 5 turns."
+}

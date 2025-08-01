@@ -1,0 +1,19 @@
+{
+    "name": "Exeggutor",
+    "national_number": "0103",
+    "image": ["Exeggutor-front.png", "Exeggutor-back.png"],
+    "type": ["Grass", "Psychic"],
+    "species": "Coconut Pokémon",
+    "height": 2,
+    "weight": 120,
+    "stats": [
+        {
+            "hp": 95,
+            "atk": 95,
+            "def": 85,
+            "sp-atk": 125,
+            "sp-def": 75,
+            "speed": 55
+        }
+    ]
+}

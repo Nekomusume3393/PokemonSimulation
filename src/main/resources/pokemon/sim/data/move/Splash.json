@@ -1,0 +1,9 @@
+{
+  "name": "Splash",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 40,
+  "effect": "Doesn't do ANYTHING."
+}

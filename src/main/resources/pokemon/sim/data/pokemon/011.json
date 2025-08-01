@@ -1,0 +1,13 @@
+{
+    "name": "Metapod",
+    "national_number": "0011",
+    "image": ["Metapod-front.png", "Metapod-back.png"],
+    "type": ["Bug"],
+    "species": "Cocoon Pokémon",
+    "height": 0.7,
+    "weight": 9.9,
+    "stats": [{
+        "hp": 50, "atk": 20, "def": 55,
+        "sp-atk": 25, "sp-def": 25, "speed": 30
+    }]
+}

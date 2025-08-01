@@ -1,0 +1,19 @@
+{
+    "name": "Victreebel",
+    "national_number": "0071",
+    "image": ["Victreebel-front.png", "Victreebel-back.png"],
+    "type": ["Grass", "Poison"],
+    "species": "Flycatcher Pokémon",
+    "height": 1.7,
+    "weight": 15.5,
+    "stats": [
+        {
+            "hp": 80,
+            "atk": 105,
+            "def": 65,
+            "sp-atk": 100,
+            "sp-def": 70,
+            "speed": 70
+        }
+    ]
+}

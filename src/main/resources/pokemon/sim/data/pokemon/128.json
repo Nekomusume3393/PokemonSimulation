@@ -1,0 +1,19 @@
+{
+    "name": "Tauros",
+    "national_number": "0102",
+    "image": ["Tauros-front.png", "Tauros-back.png"],
+    "type": ["Normal"],
+    "species": "Wild Bull Pokémon",
+    "height": 1.4,
+    "weight": 88.4,
+    "stats": [
+        {
+            "hp": 75,
+            "atk": 100,
+            "def": 95,
+            "sp-atk": 40,
+            "sp-def": 70,
+            "speed": 110
+        }
+    ]
+}

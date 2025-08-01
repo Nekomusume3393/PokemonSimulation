@@ -1,0 +1,13 @@
+{
+    "name": "Clefable",
+    "national_number": "0036",
+    "image": ["Clefable-front.png", "Clefable-back.png"],
+    "type": ["Fairy"],
+    "species": "Fairy Pokémon",
+    "height": 1.3,
+    "weight": 40.0,
+    "stats": [{
+        "hp": 95, "atk": 70, "def": 73,
+        "sp-atk": 95, "sp-def": 90, "speed": 60
+    }]
+}

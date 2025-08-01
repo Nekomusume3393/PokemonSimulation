@@ -1,0 +1,9 @@
+{
+  "name": "Screech",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 85,
+  "pp": 40,
+  "effect": "Sharply lowers opponent's Defense."
+}

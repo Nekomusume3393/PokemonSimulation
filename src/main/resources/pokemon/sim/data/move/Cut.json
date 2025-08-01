@@ -1,0 +1,9 @@
+{
+  "name": "Cut",
+  "type": "Normal",
+  "category": "Physical",
+  "power": 50,
+  "accuracy": 95,
+  "pp": 30,
+  "effect": ""
+}

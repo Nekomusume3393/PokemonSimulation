@@ -1,0 +1,19 @@
+{
+    "name": "Gyarados",
+    "national_number": "0130",
+    "image": ["Gyarados-front.png", "Gyarados-back.png"],
+    "type": ["Water", "Flying"],
+    "species": "Atrocious Pokémon",
+    "height": 6.5,
+    "weight": 235,
+    "stats": [
+        {
+            "hp": 95,
+            "atk": 125,
+            "def": 79,
+            "sp-atk": 60,
+            "sp-def": 100,
+            "speed": 81
+        }
+    ]
+}

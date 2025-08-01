@@ -1,0 +1,9 @@
+{
+  "name": "Growl",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 100,
+  "pp": 40,
+  "effect": "Lowers opponent's Attack."
+}

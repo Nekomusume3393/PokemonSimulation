@@ -1,0 +1,9 @@
+{
+  "name": "Double Team",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 15,
+  "effect": "Raises user's Evasiveness."
+}

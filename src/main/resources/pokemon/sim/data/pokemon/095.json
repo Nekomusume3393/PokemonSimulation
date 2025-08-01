@@ -1,0 +1,19 @@
+{
+    "name": "Onix",
+    "national_number": "0095",
+    "image": ["Onix-front.png", "Onix-back.png"],
+    "type": ["Rock", "Ground"],
+    "species": "Rock Snake Pokémon",
+    "height": 8.8,
+    "weight": 210,
+    "stats": [
+        {
+            "hp": 35,
+            "atk": 45,
+            "def": 160,
+            "sp-atk": 30,
+            "sp-def": 45,
+            "speed": 70
+        }
+    ]
+}

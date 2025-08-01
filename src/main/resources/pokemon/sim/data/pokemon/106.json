@@ -1,0 +1,19 @@
+{
+    "name": "Hitmonlee",
+    "national_number": "0106",
+    "image": ["Hitmonlee-front.png", "Hitmonlee-back.png"],
+    "type": ["Fighting"],
+    "species": "Kicking Pokémon",
+    "height": 1.5,
+    "weight": 49.8,
+    "stats": [
+        {
+            "hp": 50,
+            "atk": 120,
+            "def": 53,
+            "sp-atk": 35,
+            "sp-def": 110,
+            "speed": 87
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Doduo",
+    "national_number": "0084",
+    "image": ["Doduo-front.png", "Doduo-back.png"],
+    "type": ["Normal", "Flying"],
+    "species": "Twin Bird Pokémon",
+    "height": 1.4,
+    "weight": 39.2,
+    "stats": [
+        {
+            "hp": 35,
+            "atk": 85,
+            "def": 45,
+            "sp-atk": 35,
+            "sp-def": 35,
+            "speed": 75
+        }
+    ]
+}

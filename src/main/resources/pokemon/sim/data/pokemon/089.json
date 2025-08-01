@@ -1,0 +1,19 @@
+{
+    "name": "Muk",
+    "national_number": "0089",
+    "image": ["Muk-front.png", "Muk-back.png"],
+    "type": "Poison",
+    "species": "Sludge Pokémon",
+    "height": 1.2,
+    "weight": 30,
+    "stats": [
+        {
+            "hp": 105,
+            "atk": 105,
+            "def": 75,
+            "sp-atk": 65,
+            "sp-def": 100,
+            "speed": 50
+        }
+    ]
+}

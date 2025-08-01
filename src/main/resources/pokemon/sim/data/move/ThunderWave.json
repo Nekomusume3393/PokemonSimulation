@@ -1,0 +1,9 @@
+{
+  "name": "Thunder Wave",
+  "type": "Electric",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 90,
+  "pp": 20,
+  "effect": "Paralyzes opponent."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Smokescreen",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Lowers opponent's Accuracy."
+}

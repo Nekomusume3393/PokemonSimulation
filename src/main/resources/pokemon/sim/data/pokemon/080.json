@@ -1,0 +1,19 @@
+{
+    "name": "Slowbro",
+    "national_number": "0080",
+    "image": ["Slowbro-front.png", "Slowbro-back.png"],
+    "type": ["Water", "Psychic"],
+    "species": "Hermit Crab Pokémon",
+    "height": 1.6,
+    "weight": 78.5,
+    "stats": [
+        {
+            "hp": 95,
+            "atk": 75,
+            "def": 110,
+            "sp-atk": 100,
+            "sp-def": 80,
+            "speed": 30
+        }
+    ]
+}

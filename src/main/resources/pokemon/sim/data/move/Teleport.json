@@ -1,0 +1,9 @@
+{
+  "name": "Teleport",
+  "type": "Psychic",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 20,
+  "effect": "Allows user to flee wild battles; also warps player to last PokéCenter."
+}

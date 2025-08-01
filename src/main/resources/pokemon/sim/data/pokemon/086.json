@@ -1,0 +1,19 @@
+{
+    "name": "Seel",
+    "national_number": "0086",
+    "image": ["Seel-front.png", "Seel-back.png"],
+    "type": "Water",
+    "species": "Sea Lion Pokémon",
+    "height": 1.1,
+    "weight": 90,
+    "stats": [
+        {
+            "hp": 65,
+            "atk": 45,
+            "def": 55,
+            "sp-atk": 45,
+            "sp-def": 70,
+            "speed": 45
+        }
+    ]
+}

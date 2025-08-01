@@ -1,0 +1,19 @@
+{
+    "name": "Farfetch'd",
+    "national_number": "0083",
+    "image": ["Farfetch'd-front.png", "Farfetch'd-back.png"],
+    "type": ["Normal", "Flying"],
+    "species": "Wild Duck Pokémon",
+    "height": 0.8,
+    "weight": 15,
+    "stats": [
+        {
+            "hp": 52,
+            "atk": 90,
+            "def": 55,
+            "sp-atk": 58,
+            "sp-def": 62,
+            "speed": 60
+        }
+    ]
+}

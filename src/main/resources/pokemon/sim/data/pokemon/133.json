@@ -1,0 +1,19 @@
+{
+  "name": "Eevee",
+  "national_number": "0133",
+  "image": ["Eevee-front.png", "Eevee-back.png"],
+  "type": ["Normal"],
+  "species": "Evolution Pokémon",
+  "height": 0.3,
+  "weight": 6.5,
+  "stats": [
+    {
+      "hp": 55,
+      "atk": 55,
+      "def": 50,
+      "sp-atk": 45,
+      "sp-def": 65,
+      "speed": 55
+    }
+  ]
+}

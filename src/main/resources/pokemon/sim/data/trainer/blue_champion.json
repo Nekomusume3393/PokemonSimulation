@@ -1,0 +1,86 @@
+{
+    "name": "Blue",
+    "image": "blue-champion.png",
+    "team": [
+        {
+            "pokemon1": [
+                {
+                    "$include": "018.json",
+                    "level": 61,
+                    "moves": [
+                        { "$include": "WingAttack.json" },
+                        { "$include": "MirrorMove.json" },
+                        { "$include": "SkyAttack.json" },
+                        { "$include": "Whirlwind.json" }
+                    ]
+                }
+            ],
+            "pokemon2": [
+                {
+                    "$include": "065.json",
+                    "level": 59,
+                    "moves": [
+                        { "$include": "Psybeam.json" },
+                        { "$include": "Psychic.json" },
+                        { "$include": "Reflect.json" },
+                        { "$include": "Recover.json" }
+                    ]
+                }
+            ],
+            "pokemon3": [
+                {
+                    "$include": "112.json",
+                    "level": 61,
+                    "moves": [
+                        { "$include": "Leer.json" },
+                        { "$include": "TailWhip.json" },
+                        { "$include": "FuryAttack.json" },
+                        { "$include": "HornDrill.json" }
+                    ]
+                }
+            ],
+            "pokemon4": [
+                {
+                    "$include": "059.json",
+                    "level": 61,
+                    "moves": [
+                        { "$include": "Roar.json" },
+                        { "$include": "Leer.json" },
+                        { "$include": "Ember.json" },
+                        { "$include": "TakeDown.json" }
+                    ]
+                }
+            ],
+            "pokemon5": [
+                {
+                    "$include": "103.json",
+                    "level": 63,
+                    "moves": [
+                        { "$include": "Hypnosis.json" },
+                        { "$include": "Barrage.json" },
+                        { "$include": "Stomp.json" }
+                    ]
+                }
+            ],
+            "pokemon6": [
+                {
+                    "$include": "009.json",
+                    "level": 65,
+                    "moves": [
+                        { "$include": "HydroPump.json" },
+                        { "$include": "Blizzard.json" },
+                        { "$include": "Bite.json" },
+                        { "$include": "Withdraw.json" }
+                    ]
+                }
+            ]
+        }
+    ],
+    "bag": [
+        { "$include": "FullRestore.json" },
+        { "$include": "FullRestore.json" },
+        { "$include": "FullRestore.json" },
+        { "$include": "FullRestore.json" }
+    ],
+    "money": 6300
+}

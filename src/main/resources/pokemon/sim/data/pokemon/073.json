@@ -1,0 +1,19 @@
+{
+    "name": "Tentacruel",
+    "national_number": "0073",
+    "image": ["Tentacruel-front.png", "Tentacruel-back.png"],
+    "type": ["Water", "Poison"],
+    "species": "Jellyfish Pokémon",
+    "height": 1.6,
+    "weight": 55,
+    "stats": [
+        {
+            "hp": 80,
+            "atk": 70,
+            "def": 65,
+            "sp-atk": 80,
+            "sp-def": 120,
+            "speed": 100
+        }
+    ]
+}

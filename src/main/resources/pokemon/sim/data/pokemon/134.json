@@ -1,0 +1,19 @@
+{
+    "name": "Vaporeon",
+    "national_number": "0122",
+    "image": ["Vaporeon-front.png", "Vaporeon-back.png"],
+    "type": ["Water"],
+    "species": "Barrier Pokémon",
+    "height": 1,
+    "weight": 29,
+    "stats": [
+        {
+            "hp": 130,
+            "atk": 65,
+            "def": 60,
+            "sp-atk": 110,
+            "sp-def": 95,
+            "speed": 65
+        }
+    ]
+}

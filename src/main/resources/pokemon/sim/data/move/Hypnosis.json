@@ -1,0 +1,9 @@
+{
+  "name": "Hypnosis",
+  "type": "Psychic",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 60,
+  "pp": 20,
+  "effect": "Puts opponent to sleep."
+}

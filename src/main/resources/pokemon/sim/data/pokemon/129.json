@@ -1,0 +1,19 @@
+{
+    "name": "Magikarp",
+    "national_number": "0129",
+    "image": ["Magikarp-front.png", "Magikarp-back.png"],
+    "type": ["Water"],
+    "species": "Fish Pokémon",
+    "height": 0.9,
+    "weight": 10,
+    "stats": [
+        {
+            "hp": 20,
+            "atk": 10,
+            "def": 55,
+            "sp-atk": 15,
+            "sp-def": 20,
+            "speed": 80
+        }
+    ]
+}

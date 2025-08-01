@@ -1,0 +1,19 @@
+{
+    "name": "Starmie",
+    "national_number": "0121",
+    "image": ["Starmie-front.png", "Starmie-back.png"],
+    "type": ["Water", "Psychic"],
+    "species": "Mysterious Pokémon",
+    "height": 1.1,
+    "weight": 80,
+    "stats": [
+        {
+            "hp": 60,
+            "atk": 75,
+            "def": 85,
+            "sp-atk": 100,
+            "sp-def": 85,
+            "speed": 115
+        }
+    ]
+}

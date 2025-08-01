@@ -1,0 +1,9 @@
+{
+  "name": "Toxic",
+  "type": "Poison",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 90,
+  "pp": 10,
+  "effect": "Badly poisons opponent."
+}

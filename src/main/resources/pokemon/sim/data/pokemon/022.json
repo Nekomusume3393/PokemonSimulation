@@ -1,0 +1,13 @@
+{
+    "name": "Fearow",
+    "national_number": "0022",
+    "image": ["Fearow-front.png", "Fearow-back.png"],
+    "type": ["Normal", "Flying"],
+    "species": "Beak Pokémon",
+    "height": 1.2,
+    "weight": 38.0,
+    "stats": [{
+        "hp": 65, "atk": 90, "def": 65,
+        "sp-atk": 61, "sp-def": 61, "speed": 100
+    }]
+}

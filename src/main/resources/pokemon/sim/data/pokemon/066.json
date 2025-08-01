@@ -1,0 +1,21 @@
+{
+    "name": "Machop",
+    "national_number": "0066",
+    "image": ["Machop-front.png", "Machop-back.png"],
+    "type": "Fighting",
+    "species": "Superpower Pokémon",
+    "height": 0.8,
+    "weight": 19.5,
+    "stats": [
+        {
+            "hp": 70,
+            "atk": 80,
+            "def": 50,
+            "sp-atk": 35,
+            "sp-def": 35,
+            "speed": 35
+        }
+    ]
+}
+
+

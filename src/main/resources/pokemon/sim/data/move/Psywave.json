@@ -1,0 +1,9 @@
+{
+  "name": "Psywave",
+  "type": "Psychic",
+  "category": "Special",
+  "power": "--",
+  "accuracy": 100,
+  "pp": 15,
+  "effect": "Inflicts damage 50-150% of user's level."
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Venonat",
+    "national_number": "0048",
+    "image": ["Venonat-front.png", "Venonat-back.png"],
+    "type": ["Bug", "Poison"],
+    "species": "Insect Pokémon",
+    "height": 1.0,
+    "weight": 30.0,
+    "stats": [{
+        "hp": 60, "atk": 55, "def": 50,
+        "sp-atk": 40, "sp-def": 55, "speed": 45
+    }]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Moltres",
+    "national_number": "0146",
+    "image": ["Moltres-front.png", "Moltres-back.png"],
+    "type": ["Fire", "Flying"],
+    "species": "Flame Pokémon",
+    "height": 2,
+    "weight": 60,
+    "stats": [
+        {
+            "hp": 90,
+            "atk": 100,
+            "def": 90,
+            "sp-atk": 125,
+            "sp-def": 85,
+            "speed": 90
+        }
+    ]
+}

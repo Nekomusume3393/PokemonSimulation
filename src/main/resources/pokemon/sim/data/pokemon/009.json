@@ -1,0 +1,13 @@
+{
+    "name": "Blastoise",
+    "national_number": "0009",
+    "image": ["Blastoise-front.png", "Blastoise-back.png"],
+    "type": ["Water"],
+    "species": "Shellfish Pokémon",
+    "height": 1.6,
+    "weight": 85.5,
+    "stats": [{
+        "hp": 79, "atk": 83, "def": 100,
+        "sp-atk": 85, "sp-def": 105, "speed": 78
+    }]
+}

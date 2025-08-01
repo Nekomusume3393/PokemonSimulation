@@ -1,0 +1,19 @@
+{
+    "name": "Hypno",
+    "national_number": "0097",
+    "image": ["Hypno-front.png", "Hypno-back.png"],
+    "type": "Psychic",
+    "species": "Hypnosis Pokémon",
+    "height": 1.6,
+    "weight": 75.6,
+    "stats": [
+        {
+            "hp": 85,
+            "atk": 73,
+            "def": 70,
+            "sp-atk": 73,
+            "sp-def": 115,
+            "speed": 67
+        }
+    ]
+}

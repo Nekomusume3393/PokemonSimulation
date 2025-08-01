@@ -1,0 +1,19 @@
+{
+    "name": "Grimer",
+    "national_number": "0088",
+    "image": ["Grimer-front.png", "Grimer-back.png"],
+    "type": "Poison",
+    "species": "Sludge Pokémon",
+    "height": 0.9,
+    "weight": 30,
+    "stats": [
+        {
+            "hp": 80,
+            "atk": 80,
+            "def": 50,
+            "sp-atk": 40,
+            "sp-def": 50,
+            "speed": 25
+        }
+    ]
+}

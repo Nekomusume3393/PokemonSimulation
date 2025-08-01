@@ -1,0 +1,9 @@
+{
+  "name": "Fissure",
+  "type": "Ground",
+  "category": "Physical",
+  "power": "--",
+  "accuracy": "30",
+  "pp": 5,
+  "effect": "One-Hit-KO, if it hits."
+}

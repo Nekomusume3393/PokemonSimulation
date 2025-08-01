@@ -1,0 +1,9 @@
+{
+  "name": "Sleep Powder",
+  "type": "Grass",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 75,
+  "pp": 15,
+  "effect": "Puts opponent to sleep."
+}

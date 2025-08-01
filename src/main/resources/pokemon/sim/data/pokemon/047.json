@@ -1,0 +1,13 @@
+{
+    "name": "Parasect",
+    "national_number": "0047",
+    "image": ["Parasect-front.png", "Parasect-back.png"],
+    "type": ["Bug", "Grass"],
+    "species": "Mushroom Pokémon",
+    "height": 1.0,
+    "weight": 29.5,
+    "stats": [{
+        "hp": 60, "atk": 95, "def": 80,
+        "sp-atk": 60, "sp-def": 80, "speed": 30
+    }]
+}

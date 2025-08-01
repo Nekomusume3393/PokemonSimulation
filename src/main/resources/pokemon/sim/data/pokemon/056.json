@@ -1,0 +1,19 @@
+{
+    "name": "Mankey",
+    "national_number": "0056",
+    "image": ["Mankey-front.png", "Mankey-back.png"],
+    "type": "Fighting",
+    "species": "Pig Monkey Pokémon",
+    "height": 0.5,
+    "weight": 28,
+    "stats": [
+        {
+            "hp": 40,
+            "atk": 80,
+            "def": 35,
+            "sp-atk": 35,
+            "sp-def": 45,
+            "speed": 70
+        }
+    ]
+}

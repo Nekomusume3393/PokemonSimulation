@@ -1,0 +1,13 @@
+{
+    "name": "Nidoking",
+    "national_number": "0034",
+    "image": ["Nidoking-front.png", "Nidoking-back.png"],
+    "type": ["Poison", "Ground"],
+    "species": "Drill Pokémon",
+    "height": 1.4,
+    "weight": 62.0,
+    "stats": [{
+        "hp": 81, "atk": 102, "def": 77,
+        "sp-atk": 85, "sp-def": 75, "speed": 85
+    }]
+}

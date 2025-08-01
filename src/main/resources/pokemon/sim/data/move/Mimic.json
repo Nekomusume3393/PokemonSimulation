@@ -1,0 +1,9 @@
+{
+  "name": "Mimic",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 10,
+  "effect": "Copies the opponent's last move."
+}   

@@ -1,0 +1,9 @@
+{
+  "name": "Agility",
+  "type": "Psychic",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 30,
+  "effect": "Sharply raises user's Speed."
+}

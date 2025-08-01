@@ -1,0 +1,13 @@
+{
+    "name": "Wigglytuff",
+    "national_number": "0040",
+    "image": ["Wigglytuff-front.png", "Wigglytuff-back.png"],
+    "type": ["Normal", "Fairy"],
+    "species": "Balloon Pokémon",
+    "height": 1.0,
+    "weight": 12.0,
+    "stats": [{
+        "hp": 140, "atk": 70, "def": 45,
+        "sp-atk": 85, "sp-def": 50, "speed": 45
+    }]
+}

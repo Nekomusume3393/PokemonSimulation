@@ -1,0 +1,13 @@
+{
+    "name": "Ivysaur",
+    "national_number": "0002",
+    "image": ["Ivysaur-front.png", "Ivysaur-back.png"],
+    "type": ["Grass", "Poison"],
+    "species": "Seed Pokémon",
+    "height": 1.0,
+    "weight": 13.0,
+    "stats": [{
+        "hp": 60, "atk": 62, "def": 63,
+        "sp-atk": 80, "sp-def": 80, "speed": 60
+    }]
+}

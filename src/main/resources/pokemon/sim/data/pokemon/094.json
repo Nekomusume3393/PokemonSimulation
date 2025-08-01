@@ -1,0 +1,19 @@
+{
+    "name": "Gengar",
+    "national_number": "0094",
+    "image": ["Gengar-front.png", "Gengar-back.png"],
+    "type": ["Ghost", "Poison"],
+    "species": "Shadow Pokémon",
+    "height": 1.5,
+    "weight": 40.5,
+    "stats": [
+        {
+            "hp": 60,
+            "atk": 65,
+            "def": 60,
+            "sp-atk": 130,
+            "sp-def": 75,
+            "speed": 110
+        }
+    ]
+}

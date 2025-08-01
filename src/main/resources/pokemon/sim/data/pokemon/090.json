@@ -1,0 +1,19 @@
+{
+    "name": "Shellder",
+    "national_number": "0090",
+    "image": ["Shellder-front.png", "Shellder-back.png"],
+    "type": "Water",
+    "species": "Bivalve Pokémon",
+    "height": 0.3,
+    "weight": 4,
+    "stats": [
+        {
+            "hp": 30,
+            "atk": 65,
+            "def": 100,
+            "sp-atk": 45,
+            "sp-def": 25,
+            "speed": 40
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Pidgeot",
+    "national_number": "0018",
+    "image": ["Pidgeot-front.png", "Pidgeot-back.png"],
+    "type": ["Normal", "Flying"],
+    "species": "Bird Pokémon",
+    "height": 1.5,
+    "weight": 39.5,
+    "stats": [{
+        "hp": 83, "atk": 80, "def": 75,
+        "sp-atk": 70, "sp-def": 70, "speed": 101
+    }]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Conversion",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 30,
+  "effect": "Changes user's type to that of its first move."
+}

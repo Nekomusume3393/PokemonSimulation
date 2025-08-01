@@ -1,0 +1,9 @@
+{
+  "name": "Growth",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 20,
+  "effect": "Raises user's Attack and Special Attack."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Vine Whip",
+  "type": "Grass",
+  "category": "Physical",
+  "power": 45,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": ""
+}

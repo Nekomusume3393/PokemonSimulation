@@ -1,0 +1,13 @@
+{
+    "name": "Kakuna",
+    "national_number": "0014",
+    "image": ["Kakuna-front.png", "Kakuna-back.png"],
+    "type": ["Bug", "Poison"],
+    "species": "Cocoon Pokémon",
+    "height": 0.6,
+    "weight": 10.0,
+    "stats": [{
+        "hp": 45, "atk": 25, "def": 50,
+        "sp-atk": 25, "sp-def": 25, "speed": 35
+    }]
+}

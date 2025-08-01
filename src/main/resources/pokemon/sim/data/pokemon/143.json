@@ -1,0 +1,19 @@
+{
+    "name": "Snorlax",
+    "national_number": "0143",
+    "image": ["Snorlax-front.png", "Snorlax-back.png"],
+    "type": ["Normal"],
+    "species": "Sleeping Pokémon",
+    "height": 2.1,
+    "weight": 460,
+    "stats": [
+        {
+            "hp": 160,
+            "atk": 110,
+            "def": 65,
+            "sp-atk": 65,
+            "sp-def": 110,
+            "speed": 30
+        }
+    ]
+}

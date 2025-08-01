@@ -1,0 +1,13 @@
+{
+    "name": "Venomoth",
+    "national_number": "0049",
+    "image": ["Venomoth-front.png", "Venomoth-back.png"],
+    "type": ["Bug", "Poison"],
+    "species": "Poison Moth Pokémon",
+    "height": 1.5,
+    "weight": 12.5,
+    "stats": [{
+        "hp": 70, "atk": 65, "def": 60,
+        "sp-atk": 90, "sp-def": 75, "speed": 90
+    }]
+}

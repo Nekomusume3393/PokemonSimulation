@@ -1,0 +1,9 @@
+{
+  "name": "Take Down",
+  "type": "Normal",
+  "category": "Physical",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 20,
+  "effect": "User receives recoil damage."
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Koffing",
+    "national_number": "0109",
+    "image": ["Koffing-front.png", "Koffing-back.png"],
+    "type": ["Poison"],
+    "species": "Poison Gas Pokémon",
+    "height": 0.6,
+    "weight": 1,
+    "stats": [
+        {
+            "hp": 40,
+            "atk": 65,
+            "def": 95,
+            "sp-atk": 60,
+            "sp-def": 45,
+            "speed": 35
+        }
+    ]
+}

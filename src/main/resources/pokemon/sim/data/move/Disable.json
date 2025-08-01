@@ -1,0 +1,9 @@
+{
+  "name": "Disable",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 100,
+  "pp": 20,
+  "effect": "Opponent can't use its last attack for a few turns."
+}

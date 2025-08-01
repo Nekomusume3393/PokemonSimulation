@@ -1,0 +1,19 @@
+{
+    "name": "Meowth",
+    "national_number": "0052",
+    "image": ["Meowth-front.png", "Meowth-back.png"],
+    "type": "Normal",
+    "species": "Scratch Cat Pokémon",
+    "height": 0.4,
+    "weight": 4.2,
+    "stats": [
+        {
+            "hp": 40,
+            "atk": 45,
+            "def": 35,
+            "sp-atk": 40,
+            "sp-def": 40,
+            "speed": 90
+        }
+    ]
+}

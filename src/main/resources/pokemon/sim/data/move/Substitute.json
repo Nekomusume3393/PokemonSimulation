@@ -1,0 +1,9 @@
+{
+  "name": "Substitute",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 10,
+  "effect": "Uses HP to creates a decoy that takes hits."
+}

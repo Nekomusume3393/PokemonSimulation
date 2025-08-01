@@ -1,0 +1,21 @@
+{
+    "name": "Alakazam",
+    "national_number": "0065",
+    "image": ["Alakazam-front.png", "Alakazam-back.png"],
+    "type": "Psychic",
+    "species": "Psi Pokémon",
+    "height": 1.5,
+    "weight": 48,
+    "stats": [
+        {
+            "hp": 55,
+            "atk": 50,
+            "def": 45,
+            "sp-atk": 135,
+            "sp-def": 95,
+            "speed": 120
+        }
+    ]
+}
+
+

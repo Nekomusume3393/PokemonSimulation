@@ -1,0 +1,19 @@
+{
+    "name": "Lickitung",
+    "national_number": "0108",
+    "image": ["Lickitung-front.png", "Lickitung-back.png"],
+    "type": ["Normal"],
+    "species": "Licking Pokémon",
+    "height": 1.2,
+    "weight": 65.5,
+    "stats": [
+        {
+            "hp": 90,
+            "atk": 55,
+            "def": 75,
+            "sp-atk": 60,
+            "sp-def": 75,
+            "speed": 30
+        }
+    ]
+}

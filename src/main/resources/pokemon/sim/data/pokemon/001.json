@@ -1,0 +1,15 @@
+{
+    "name": "Bulbasaur",
+    "national_number": "0001",
+    "image": ["Bulbasaur-front.png", "Bulbasaur-back.png"],
+    "type": ["Grass", "Poison"],
+    "species": "Seed Pokémon",
+    "height": 0.7,
+    "weight": 6.9,
+    "stats": [
+        {
+            "hp": 45, "atk": 49, "def": 49,
+            "sp-atk": 65, "sp-def": 65, "speed": 45
+        }
+    ]
+}

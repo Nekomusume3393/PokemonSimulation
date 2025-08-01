@@ -1,0 +1,13 @@
+{
+    "name": "Venusaur",
+    "national_number": "0003",
+    "image": ["Venusaur-front.png", "Venusaur-back.png"],
+    "type": ["Grass", "Poison"],
+    "species": "Seed Pokémon",
+    "height": 2.0,
+    "weight": 100.0,
+    "stats": [{
+        "hp": 80, "atk": 82, "def": 83,
+        "sp-atk": 100, "sp-def": 100, "speed": 80
+    }]
+}

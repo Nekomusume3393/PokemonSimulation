@@ -1,0 +1,19 @@
+{
+    "name": "Goldeen",
+    "national_number": "0118",
+    "image": ["Goldeen-front.png", "Goldeen-back.png"],
+    "type": ["Water"],
+    "species": "Goldfish Pokémon",
+    "height": 0.6,
+    "weight": 15,
+    "stats": [
+        {
+            "hp": 45,
+            "atk": 67,
+            "def": 60,
+            "sp-atk": 35,
+            "sp-def": 50,
+            "speed": 63
+        }
+    ]
+}

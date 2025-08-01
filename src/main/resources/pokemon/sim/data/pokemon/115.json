@@ -1,0 +1,19 @@
+{
+    "name": "Kangaskhan",
+    "national_number": "0115",
+    "image": ["Kangaskhan-front.png", "Kangaskhan-back.png"],
+    "type": ["Normal"],
+    "species": "Parent Pokémon",
+    "height": 2.2,
+    "weight": 80,
+    "stats": [
+        {
+            "hp": 105,
+            "atk": 95,
+            "def": 80,
+            "sp-atk": 40,
+            "sp-def": 80,
+            "speed": 90
+        }
+    ]
+}

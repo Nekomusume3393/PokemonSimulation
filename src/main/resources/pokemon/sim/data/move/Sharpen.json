@@ -1,0 +1,9 @@
+{
+  "name": "Sharpen",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 30,
+  "effect": "Raises user's Attack."
+}

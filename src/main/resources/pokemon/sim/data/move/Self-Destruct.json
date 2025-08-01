@@ -1,0 +1,9 @@
+{
+  "name": "Self-Destruct",
+  "type": "Normal",
+  "category": "Physical",
+  "power": 200,
+  "accuracy": 100,
+  "pp": 5,
+  "effect": "User faints."
+}

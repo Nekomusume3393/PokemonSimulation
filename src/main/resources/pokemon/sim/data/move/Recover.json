@@ -1,0 +1,9 @@
+{
+  "name": "Recover",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": "--",
+  "pp": 5,
+  "effect": "User recovers half its max HP."
+}

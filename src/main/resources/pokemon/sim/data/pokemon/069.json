@@ -1,0 +1,19 @@
+{
+    "name": "Bellsprout",
+    "national_number": "0069",
+    "image": ["Bellsprout-front.png", "Bellsprout-back.png"],
+    "type": ["Grass", "Poison"],
+    "species": "Flower Pokémon",
+    "height": 0.7,
+    "weight": 4,
+    "stats": [
+        {
+            "hp": 50,
+            "atk": 75,
+            "def": 35,
+            "sp-atk": 70,
+            "sp-def": 30,
+            "speed": 40
+        }
+    ]
+}

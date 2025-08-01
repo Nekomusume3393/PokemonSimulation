@@ -1,0 +1,13 @@
+{
+    "name": "Beedrill",
+    "national_number": "0015",
+    "image": ["Beedrill-front.png", "Beedrill-back.png"],
+    "type": ["Bug", "Poison"],
+    "species": "Poison Bee Pokémon",
+    "height": 1.0,
+    "weight": 29.5,
+    "stats": [{
+        "hp": 65, "atk": 90, "def": 40,
+        "sp-atk": 45, "sp-def": 80, "speed": 75
+    }]
+}

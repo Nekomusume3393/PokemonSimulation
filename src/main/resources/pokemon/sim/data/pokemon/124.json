@@ -1,0 +1,19 @@
+{
+    "name": "Jynx",
+    "national_number": "0124",
+    "image": ["Jynx-front.png", "Jynx-back.png"],
+    "type": ["Ice", "Psychic"],
+    "species": "Human Shape Pokémon",
+    "height": 1.4,
+    "weight": 40.6,
+    "stats": [
+        {
+            "hp": 65,
+            "atk": 50,
+            "def": 35,
+            "sp-atk": 115,
+            "sp-def": 95,
+            "speed": 95
+        }
+    ]
+}

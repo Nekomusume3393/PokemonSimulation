@@ -1,0 +1,19 @@
+{
+    "name": "Cubone",
+    "national_number": "0104",
+    "image": ["Cubone-front.png", "Cubone-back.png"],
+    "type": ["Ground"],
+    "species": "Lonely Pokémon",
+    "height": 0.4,
+    "weight": 6.5,
+    "stats": [
+        {
+            "hp": 50,
+            "atk": 50,
+            "def": 95,
+            "sp-atk": 40,
+            "sp-def": 50,
+            "speed": 35
+        }
+    ]
+}

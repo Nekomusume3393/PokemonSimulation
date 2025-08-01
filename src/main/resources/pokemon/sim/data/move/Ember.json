@@ -1,0 +1,9 @@
+{
+  "name": "Ember",
+  "type": "Fire",
+  "category": "Special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "effect": "May burn opponent."
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Caterpie",
+    "national_number": "0010",
+    "image": ["Caterpie-front.png", "Caterpie-back.png"],
+    "type": ["Bug"],
+    "species": "Worm Pokémon",
+    "height": 0.3,
+    "weight": 2.9,
+    "stats": [{
+        "hp": 45, "atk": 30, "def": 35,
+        "sp-atk": 20, "sp-def": 20, "speed": 45
+    }]
+}

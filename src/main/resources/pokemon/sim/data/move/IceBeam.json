@@ -1,0 +1,9 @@
+{
+  "name": "Ice Beam",
+  "type": "Ice",
+  "category": "Special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "May freeze opponent."
+}

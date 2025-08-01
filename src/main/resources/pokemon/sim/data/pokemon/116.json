@@ -1,0 +1,19 @@
+{
+  "name": "Horsea",
+  "national_number": "0116",
+  "image": ["Horsea-front.png", "Horsea-back.png"],
+  "type": ["Water"],
+  "species": "Dragon Pokémon",
+  "height": 0.4,
+  "weight": 8.0,
+  "stats": [
+    {
+      "hp": 30,
+      "atk": 40,
+      "def": 70,
+      "sp-atk": 70,
+      "sp-def": 25,
+      "speed": 60
+    }
+  ]
+}

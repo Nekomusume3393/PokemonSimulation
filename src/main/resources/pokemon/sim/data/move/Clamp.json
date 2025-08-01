@@ -1,0 +1,9 @@
+{
+  "name": "Clamp",
+  "type": "Water",
+  "category": "Physical",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "effect": "Traps opponent, damaging them for 4-5 turns."
+}

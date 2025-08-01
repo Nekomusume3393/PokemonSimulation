@@ -1,0 +1,9 @@
+{
+  "name": "Confuse Ray",
+  "type": "Ghost",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "Confuses opponent."
+}

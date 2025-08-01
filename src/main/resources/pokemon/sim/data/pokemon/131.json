@@ -1,0 +1,19 @@
+{
+  "name": "Lapras",
+  "national_number": "0131",
+  "image": ["Lapras-front.png", "Lapras-back.png"],
+  "type": ["Water", "Ice"],
+  "species": "Transport Pokémon",
+  "height": 2.5,
+  "weight": 220.0,
+  "stats": [
+    {
+      "hp": 130,
+      "atk": 85,
+      "def": 80,
+      "sp-atk": 85,
+      "sp-def": 95,
+      "speed": 60
+    }
+  ]
+}

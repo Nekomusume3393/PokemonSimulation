@@ -1,0 +1,19 @@
+{
+    "name": "Dratini",
+    "national_number": "0147",
+    "image": ["Dratini-front.png", "Dratini-back.png"],
+    "type": ["Dragon"],
+    "species": "Dragon Pokémon",
+    "height": 1.8,
+    "weight": 3.3,
+    "stats": [
+        {
+            "hp": 41,
+            "atk": 64,
+            "def": 45,
+            "sp-atk": 50,
+            "sp-def": 50,
+            "speed": 50
+        }
+    ]
+}

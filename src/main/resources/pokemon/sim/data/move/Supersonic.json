@@ -1,0 +1,9 @@
+{
+  "name": "Supersonic",
+  "type": "Normal",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 55,
+  "pp": 20,
+  "effect": "Confuses opponent."
+}

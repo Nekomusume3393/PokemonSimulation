@@ -1,0 +1,19 @@
+{
+    "name": "Magnemite",
+    "national_number": "0081",
+    "image": ["Magnemite-front.png", "Magnemite-back.png"],
+    "type": ["Electric", "Steel"],
+    "species": "Magnet Pokémon",
+    "height": 0.3,
+    "weight": 6,
+    "stats": [
+        {
+            "hp": 25,
+            "atk": 35,
+            "def": 70,
+            "sp-atk": 95,
+            "sp-def": 55,
+            "speed": 45
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Slowpoke",
+    "national_number": "0079",
+    "image": ["Slowpoke-front.png", "Slowpoke-back.png"],
+    "type": ["Water", "Psychic"],
+    "species": "Dopey Pokémon",
+    "height": 1.2,
+    "weight": 36,
+    "stats": [
+        {
+            "hp": 90,
+            "atk": 65,
+            "def": 65,
+            "sp-atk": 40,
+            "sp-def": 40,
+            "speed": 15
+        }
+    ]
+}

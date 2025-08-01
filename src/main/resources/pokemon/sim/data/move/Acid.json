@@ -1,0 +1,9 @@
+{
+  "name": "Acid",
+  "type": "Poison",
+  "category": "Special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "effect": "May lower opponent's Special Defense."
+}

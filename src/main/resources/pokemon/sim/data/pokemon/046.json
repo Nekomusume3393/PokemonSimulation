@@ -1,0 +1,13 @@
+{
+    "name": "Paras",
+    "national_number": "0046",
+    "image": ["Paras-front.png", "Paras-back.png"],
+    "type": ["Bug", "Grass"],
+    "species": "Mushroom Pokémon",
+    "height": 0.3,
+    "weight": 5.4,
+    "stats": [{
+        "hp": 35, "atk": 70, "def": 55,
+        "sp-atk": 45, "sp-def": 55, "speed": 25
+    }]
+}

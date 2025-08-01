@@ -1,0 +1,13 @@
+{
+    "name": "Butterfree",
+    "national_number": "0012",
+    "image": ["Butterfree-front.png", "Butterfree-back.png"],
+    "type": ["Bug", "Flying"],
+    "species": "Butterfly Pokémon",
+    "height": 1.1,
+    "weight": 32.0,
+    "stats": [{
+        "hp": 60, "atk": 45, "def": 50,
+        "sp-atk": 90, "sp-def": 80, "speed": 70
+    }]
+}

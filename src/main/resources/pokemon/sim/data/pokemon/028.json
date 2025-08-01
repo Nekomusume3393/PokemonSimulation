@@ -1,0 +1,13 @@
+{
+    "name": "Sandslash",
+    "national_number": "0028",
+    "image": ["Sandslash-front.png", "Sandslash-back.png"],
+    "type": ["Ground"],
+    "species": "Mouse Pokémon",
+    "height": 1.0,
+    "weight": 29.5,
+    "stats": [{
+        "hp": 75, "atk": 100, "def": 110,
+        "sp-atk": 45, "sp-def": 55, "speed": 65
+    }]
+}

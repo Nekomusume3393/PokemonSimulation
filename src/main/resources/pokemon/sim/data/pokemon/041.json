@@ -1,0 +1,13 @@
+{
+    "name": "Zubat",
+    "national_number": "0041",
+    "image": ["Zubat-front.png", "Zubat-back.png"],
+    "type": ["Poison", "Flying"],
+    "species": "Bat Pokémon",
+    "height": 0.8,
+    "weight": 7.5,
+    "stats": [{
+        "hp": 40, "atk": 45, "def": 35,
+        "sp-atk": 30, "sp-def": 40, "speed": 55
+    }]
+}

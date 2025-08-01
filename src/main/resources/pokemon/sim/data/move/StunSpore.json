@@ -1,0 +1,9 @@
+{
+  "name": "Stun Spore",
+  "type": "Grass",
+  "category": "Status",
+  "power": "--",
+  "accuracy": 75,
+  "pp": 30,
+  "effect": "Paralyzes opponent."
+}

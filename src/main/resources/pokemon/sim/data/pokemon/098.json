@@ -1,0 +1,19 @@
+{
+    "name": "Krabby",
+    "national_number": "0098",
+    "image": ["Krabby-front.png", "Krabby-back.png"],
+    "type": "Water",
+    "species": "River Crab Pokémon",
+    "height": 0.4,
+    "weight": 6.5,
+    "stats": [
+        {
+            "hp": 30,
+            "atk": 105,
+            "def": 90,
+            "sp-atk": 25,
+            "sp-def": 25,
+            "speed": 50
+        }
+    ]
+}

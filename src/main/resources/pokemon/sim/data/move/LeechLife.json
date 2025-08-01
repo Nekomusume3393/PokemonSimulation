@@ -1,0 +1,9 @@
+{
+  "name": "Leech Life",
+  "type": "Bug",
+  "category": "Physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "effect": "User recovers half the HP inflicted on opponent."
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sonic Boom",
+  "type": "Normal",
+  "category": "Special",
+  "power": "--",
+  "accuracy": 90,
+  "pp": 20,
+  "effect": "Always inflicts 20 HP."
+}

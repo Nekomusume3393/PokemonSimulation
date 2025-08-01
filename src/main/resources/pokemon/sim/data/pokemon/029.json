@@ -1,0 +1,13 @@
+{
+    "name": "Nidoran♀",
+    "national_number": "0029",
+    "image": ["Nidoran-f-front.png", "Nidoran-f-back.png"],
+    "type": ["Poison"],
+    "species": "Poison Pin Pokémon",
+    "height": 0.4,
+    "weight": 7.0,
+    "stats": [{
+        "hp": 55, "atk": 47, "def": 52,
+        "sp-atk": 40, "sp-def": 40, "speed": 41
+    }]
+}

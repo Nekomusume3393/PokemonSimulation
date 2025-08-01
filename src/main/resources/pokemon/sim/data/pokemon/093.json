@@ -1,0 +1,19 @@
+{
+    "name": "Haunter",
+    "national_number": "0093",
+    "image": ["Haunter-front.png", "Haunter-back.png"],
+    "type": ["Ghost", "Poison"],
+    "species": "Gas Pokémon",
+    "height": 1.6,
+    "weight": 0.1,
+    "stats": [
+        {
+            "hp": 45,
+            "atk": 50,
+            "def": 45,
+            "sp-atk": 115,
+            "sp-def": 55,
+            "speed": 95
+        }
+    ]
+}

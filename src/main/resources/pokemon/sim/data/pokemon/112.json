@@ -1,0 +1,19 @@
+{
+    "name": "Rhydon",
+    "national_number": "0112",
+    "image": ["Rhydon-front.png", "Rhydon-back.png"],
+    "type": ["Ground", "Rock"],
+    "species": "Drill Pokémon",
+    "height": 1.9,
+    "weight": 120,
+    "stats": [
+        {
+            "hp": 105,
+            "atk": 130,
+            "def": 120,
+            "sp-atk": 45,
+            "sp-def": 45,
+            "speed": 40
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Diglett",
+    "national_number": "0050",
+    "image": ["Diglett-front.png", "Diglett-back.png"],
+    "type": ["Ground"],
+    "species": "Mole Pokémon",
+    "height": 0.2,
+    "weight": 0.8,
+    "stats": [{
+        "hp": 10, "atk": 55, "def": 25,
+        "sp-atk": 35, "sp-def": 45, "speed": 95
+    }]
+}

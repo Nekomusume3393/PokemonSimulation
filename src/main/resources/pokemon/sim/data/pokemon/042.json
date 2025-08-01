@@ -1,0 +1,13 @@
+{
+    "name": "Golbat",
+    "national_number": "0042",
+    "image": ["Golbat-front.png", "Golbat-back.png"],
+    "type": ["Poison", "Flying"],
+    "species": "Bat Pokémon",
+    "height": 1.6,
+    "weight": 55.0,
+    "stats": [{
+        "hp": 75, "atk": 80, "def": 70,
+        "sp-atk": 65, "sp-def": 75, "speed": 90
+    }]
+}

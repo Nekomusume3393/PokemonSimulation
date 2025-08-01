@@ -1,0 +1,19 @@
+{
+    "name": "Zapdos",
+    "national_number": "0145",
+    "image": ["Zapdos-front.png", "Zapdos-back.png"],
+    "type": ["Electric", "Flying"],
+    "species": "Electric Pokémon",
+    "height": 1.6,
+    "weight": 52.6,
+    "stats": [
+        {
+            "hp": 90,
+            "atk": 90,
+            "def": 85,
+            "sp-atk": 125,
+            "sp-def": 90,
+            "speed": 100
+        }
+    ]
+}

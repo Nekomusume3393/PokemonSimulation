@@ -1,0 +1,19 @@
+{
+    "name": "Weezing",
+    "national_number": "0110",
+    "image": ["Weezing-front.png", "Weezing-back.png"],
+    "type": ["Poison"],
+    "species": "Poison Gas Pokémon",
+    "height": 1.2,
+    "weight": 9.5,
+    "stats": [
+        {
+            "hp": 65,
+            "atk": 90,
+            "def": 120,
+            "sp-atk": 85,
+            "sp-def": 70,
+            "speed": 60
+        }
+    ]
+}

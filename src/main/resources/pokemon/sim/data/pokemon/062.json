@@ -1,0 +1,19 @@
+{
+    "name": "Poliwrath",
+    "national_number": "0062",
+    "image": ["Poliwrath-front.png", "Poliwrath-back.png"],
+    "type": ["Water", "Fighting"],
+    "species": "Tadpole Pokémon",
+    "height": 1.3,
+    "weight": 54,
+    "stats": [
+        {
+            "hp": 90,
+            "atk": 95,
+            "def": 95,
+            "sp-atk": 70,
+            "sp-def": 90,
+            "speed": 70
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Arbok",
+    "national_number": "0024",
+    "image": ["Arbok-front.png", "Arbok-back.png"],
+    "type": ["Poison"],
+    "species": "Cobra Pokémon",
+    "height": 3.5,
+    "weight": 65.0,
+    "stats": [{
+        "hp": 60, "atk": 95, "def": 69,
+        "sp-atk": 65, "sp-def": 79, "speed": 80
+    }]
+}

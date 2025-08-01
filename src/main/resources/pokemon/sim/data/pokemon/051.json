@@ -1,0 +1,13 @@
+{
+    "name": "Dugtrio",
+    "national_number": "0051",
+    "image": ["Dugtrio-front.png", "Dugtrio-back.png"],
+    "type": ["Ground"],
+    "species": "Mole Pokémon",
+    "height": 0.7,
+    "weight": 33.3,
+    "stats": [{
+        "hp": 35, "atk": 100, "def": 50,
+        "sp-atk": 50, "sp-def": 70, "speed": 120
+    }]
+}

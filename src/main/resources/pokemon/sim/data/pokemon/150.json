@@ -1,0 +1,19 @@
+{
+    "name": "Mewtwo",
+    "national_number": "0150",
+    "image": ["Mewtwo-front.png", "Mewtwo-back.png"],
+    "type": ["Psychic"],
+    "species": "Genetic Pokémon",
+    "height": 2.0,
+    "weight": 112,
+    "stats": [
+        {
+            "hp": 106,
+            "atk": 110,
+            "def": 90,
+            "sp-atk": 154,
+            "sp-def": 90,
+            "speed": 134
+        }
+    ]
+}
